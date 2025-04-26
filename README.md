@@ -1,5 +1,5 @@
 $$
-## Hi there 👋
+Hi 👋
 $$
 
 [Discussions](https://github.com/ArgusRho/argusrho/discussions) | [Site](https://argusrho.github.io/) | [ko-fi](https://Ko-fi.com/argusrho)
