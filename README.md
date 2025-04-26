@@ -1,4 +1,6 @@
+$$
 ## Hi there 👋
+$$
 [Discussions](https://github.com/ArgusRho/argusrho/discussions) | [Site](https://argusrho.github.io/) | [ko-fi](https://Ko-fi.com/argusrho)
 <!--
 **ArgusRho/argusrho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
